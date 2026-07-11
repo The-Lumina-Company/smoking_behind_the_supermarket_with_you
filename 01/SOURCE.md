@@ -1,0 +1,1 @@
+# https://ddl.animeout.com/public.php?url=nimbus.animeout.com/series/00RAPIDBOT/Super%20no%20Ura%20de%20Yani%20Suu%20Futari/[AnimeOut]%20Super%20no%20Ura%20de%20Yani%20Suu%20Futari%20-%2001%20[B9F7B295][1080pp][SubsPlease][x265][RapidBot].mkv
