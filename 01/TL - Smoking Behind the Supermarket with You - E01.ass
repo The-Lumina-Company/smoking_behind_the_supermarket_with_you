@@ -1,0 +1,320 @@
+[Script Info]
+Title: The-Lumina-Company - Smoking Behind the Supermarket with You
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.6,2,2,30,30,60,162
+Style: DefaultItalics,Arial,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,3.6,2,2,30,30,60,0
+Style: DefaultTop,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,8,60,60,69,0
+Style: DefaultItalicsTop,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,8,60,60,69,0
+Style: DefaultOverlap,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,0
+Style: Flashback,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: FlashbackItalics,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: FlashbackTop,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,8,60,60,69,0
+Style: FlashbackItalicsTop,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,8,60,60,69,0
+Style: Narration,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: Signs,Arial,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,90,90,30,0
+Style: Signs_EpTitle,Times New Roman,48,&H00057AF9,&H000000FF,&HC8000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,90,90,30,0
+Style: Credits,Arial,54,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,90,90,54,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.00,Default,,0,0,0,,{\fscx75\fscy75\pos(1536,279)}Çeviri: Ka4qnn\NRedaksiyon: shxd\NEncode: shxd\NUpload: shxd\N https://discord.gg/akzHAQ2Dh6
+Dialogue: 0,0:00:29.44,0:00:32.08,Default,SUZUKI,0,0,0,,Hey, Sasaki.
+Dialogue: 0,0:00:32.53,0:00:34.83,Default,SASAKI,0,0,0,,Selam, bir şey mi oldu?
+Dialogue: 0,0:00:35.69,0:00:37.23,Default,SUZUKI,0,0,0,,Neredesin abi ya?
+Dialogue: 0,0:00:37.23,0:00:41.00,Default,SUZUKI,0,0,0,,Her yerde seni aradım,\Nsigara odasında da yoktun.
+Dialogue: 0,0:00:41.66,0:00:43.25,Default,SASAKI,0,0,0,,Kusura bakma ya.
+Dialogue: 0,0:00:43.25,0:00:44.85,Default,SASAKI,0,0,0,,Bir şey mi lazımdı?
+Dialogue: 0,0:00:53.89,0:00:56.16,Default,SUZUKI,0,0,0,,Müdür birazdan \Ntoplantı yapacakmış.
+Dialogue: 0,0:00:57.49,0:00:58.27,Default,SUZUKI,0,0,0,,Aman be...
+Dialogue: 0,0:00:59.53,0:01:04.79,Default,SUZUKI,0,0,0,,Yine başlıyoruz şu uzadıkça uzayan,\Nbitmek bilmeyen gereksiz toplantılara.
+Dialogue: 0,0:01:05.46,0:01:06.62,Default,SASAKI,0,0,0,,Tamam, tamam.
+Dialogue: 0,0:01:15.19,0:01:17.89,Default,SUZUKI,0,0,0,,Eve gitsem de kurtulsam şu hayattan.
+Dialogue: 0,0:01:23.85,0:01:25.58,Default,SASAKI,0,0,0,,Al benden de o kadar.
+Dialogue: 0,0:02:57.97,0:03:02.98,Signs_EpTitle,EPTITLE,0,0,0,,{\blur3\pos(696,750)}1. Dal\N{\fs72}Seninle Süpermarketin\NArkasında Sigara İçmek
+Dialogue: 0,0:03:02.98,0:03:06.48,Signs,SIGN,0,0,0,,{\fs60\an9\bord6\fnTimes New Roman\c&H8B8C89&\3c&HFAF7F3&}Genki Ticaret
+Dialogue: 0,0:03:18.45,0:03:24.12,Signs,SIGN,0,0,0,,{\fad(146,1)\fs36\bord6\fnComic Sans MS\c&H84847D&\3c&HEFF0E8&\pos(822.5,513)}Hediyelikler
+Dialogue: 0,0:03:18.45,0:03:24.12,Signs,SIGN,0,0,0,,{\fad(146,1)\fs36\bord6\fnComic Sans MS\c&H84847D&\3c&HEFF0E8&\pos(843,613.5)}Buraya.
+Dialogue: 0,0:03:39.68,0:03:41.89,Signs,SIGN,0,0,0,,{\fad(1272,1)\fs48\bord6\c&HD4DFDA&\3c&H20241D&\pos(1813.5,49.5)}Şehir İçi
+Dialogue: 0,0:04:33.19,0:04:34.86,Signs,SIGN,0,0,0,,{\fad(1,605)\bord6\c&HE6E0DB&\3c&H543B8A&\frz5.31\fax-0.1\pos(237,313.5)}7/24 Açık
+Dialogue: 0,0:04:33.19,0:04:34.86,Signs,SIGN,0,0,0,,{\fad(1,605)\fnArial Black\bord6\c&H6042A1&\3c&HF1E9E8&\fax-0.1\pos(946.5,465)\frz4.356\4c&H85634B&\shad6}Süpermarket S
+Dialogue: 0,0:04:53.59,0:04:55.46,Signs,SIGN,0,0,0,,{\bord7.5\c&HF4F4F3&\3c&HAB635B&}Ücretsiz Buz\N{\c&HD9B99A&\3c&HF3F3F3&\fs36}Saklama Amaçlı
+Dialogue: 0,0:04:57.21,0:05:00.46,Signs,SIGN,0,0,0,,{\bord7.5\c&HF4F4F3&\3c&HAB635B&}Ücretsiz Buz\N{\c&HD9B99A&\3c&HF3F3F3&\fs36}Saklama Amaçlı
+Dialogue: 0,0:05:00.47,0:05:14.11,Signs,SIGN,0,0,0,,{\fs54\bord4.5\fnVerdana\b0\3c&HF0BB50&}Alkol Reyonu
+Dialogue: 0,0:05:19.49,0:05:23.90,Signs,SIGN,0,0,0,,{\fad(1,220)\bord6\fnComic Sans MS\c&H282C41&\3c&HF0F3F6&}Nefis Mochi Cipsleri
+Dialogue: 0,0:05:24.74,0:05:26.54,Default,YAMADA,0,0,0,,Teşekkürler, yine bekleriz!
+Dialogue: 0,0:05:29.12,0:05:30.49,Default,YAMADA,0,0,0,,Hoş geldiniz!
+Dialogue: 0,0:05:32.99,0:05:35.28,Default,YAMADA,0,0,0,,Puan kartınız var mıydı?
+Dialogue: 0,0:05:35.28,0:05:37.13,Default,SASAKI,0,0,0,,Evet, var.
+Dialogue: 0,0:05:37.72,0:05:39.01,Default,YAMADA,0,0,0,,Teşekkür ederim.
+Dialogue: 0,0:05:40.85,0:05:42.83,Default,YAMADA,0,0,0,,Kartınızı alabilirsiniz.
+Dialogue: 0,0:05:49.26,0:05:51.52,Default,YAMADA,0,0,0,,Poşet ister misiniz?
+Dialogue: 0,0:05:52.15,0:05:53.70,Default,SASAKI,0,0,0,,Üç yenlik olandan alayım lütfen.
+Dialogue: 0,0:05:53.70,0:05:57.65,Default,YAMADA,0,0,0,,Toplam 883 yen ediyor.
+Dialogue: 0,0:05:57.65,0:05:58.65,Default,SASAKI,0,0,0,,Buyurun.
+Dialogue: 0,0:06:06.61,0:06:08.93,Default,YAMADA,0,0,0,,Para üstünüz ve fişiniz.
+Dialogue: 0,0:06:10.10,0:06:11.00,Default,SASAKI,0,0,0,,Sağ olun.
+Dialogue: 0,0:06:13.96,0:06:15.64,Default,YAMADA,0,0,0,,Teşekkürler, yine bekleriz!
+Dialogue: 0,0:06:20.42,0:06:22.68,Signs,SIGN,0,0,0,,{\t(25,2235,\fscx109.48\fscy109.48)\blur0.9\fs27\c&H434343&\frz-5.26\fax0.05\move(883.5,453,877.26,449.01,25,2235)}Kasiyer: Yamada
+Dialogue: 0,0:06:22.94,0:06:25.06,DefaultItalics,SASAKI,0,0,0,,İkinci kasadaki Yamada-san...
+Dialogue: 0,0:06:25.93,0:06:28.56,DefaultItalics,SASAKI,0,0,0,,İş çıkışı en büyük huzur kaynağım.
+Dialogue: 0,0:06:31.01,0:06:32.44,DefaultItalics,SASAKI,0,0,0,,Gel gör ki...
+Dialogue: 0,0:06:33.44,0:06:37.25,DefaultItalics,SASAKI,0,0,0,,Son zamanlarda ihtiyacım olmasa bile çok sık uğramaya başladım.
+Dialogue: 0,0:06:37.25,0:06:39.69,DefaultItalics,SASAKI,0,0,0,,Tam bir para israfı.
+Dialogue: 0,0:06:40.19,0:06:43.30,DefaultItalics,SASAKI,0,0,0,,Belki de birini Yamada-san’a\Nhediye olarak verebilirim.
+Dialogue: 0,0:06:43.66,0:06:45.66,DefaultItalics,SASAKI,0,0,0,,Belli mi olur?\NBelki onu mutlu eder.
+Dialogue: 0,0:06:45.65,0:06:49.37,Signs,SIGN,0,0,0,,{\fad(362,188)\fs36\bord6\fnComic Sans MS\c&H282C41&\3c&HF0F3F6&\pos(480,588)}Nefis Mochi Cipsleri
+Dialogue: 0,0:06:46.34,0:06:49.01,DefaultItalics,YAMADA,0,0,0,,Aaa, çok teşekkür ederim!
+Dialogue: 0,0:06:52.90,0:06:55.41,DefaultItalics,SASAKI,0,0,0,,Haberlerdeki o hayal dünyasında yaşayan...
+Dialogue: 0,0:06:55.41,0:06:58.05,DefaultItalics,SASAKI,0,0,0,,...orta yaşlı sapıklara döndüm resmen.
+Dialogue: 0,0:06:58.84,0:07:02.34,Signs,SIGN,0,0,0,,{\fs60\an9\bord6\fnTimes New Roman\c&H7C7B78&\3c&HFAF7F3&}Genki Ticaret
+Dialogue: 0,0:06:59.19,0:07:02.34,Default,CHIEF,0,0,0,,Bu da ne demek oluyor, Sasaki-kun?!
+Dialogue: 0,0:07:02.34,0:07:06.60,Default,CHIEF,0,0,0,,Saha turu bahanesiyle aylak aylak gezebileceğini mi sanıyorsun?!
+Dialogue: 0,0:07:06.60,0:07:10.65,Default,CHIEF,0,0,0,,Yemin ederim! Haber vermeden\nortadan kaybolman kabul edilemez!
+Dialogue: 0,0:07:10.65,0:07:12.23,Default,SASAKI,0,0,0,,Özür dilerim efendim.
+Dialogue: 0,0:07:12.23,0:07:15.86,Default,CHIEF,0,0,0,,İletişim becerilerini acilen\Ngeliştirmen lazım, hem de çok acil!
+Dialogue: 0,0:07:15.86,0:07:18.12,Default,CHIEF,0,0,0,,Yöneticin olarak beni\nrezil ediyorsun-
+Dialogue: 0,0:07:18.12,0:07:22.24,Default,SUZUKI,0,0,0,,Müdürüm, böldüğüm için özür dilerim,\nfakat Shikaku Inc.'ten Eda-san...
+Dialogue: 0,0:07:22.60,0:07:24.88,Default,SUZUKI,0,0,0,,...tahmini fiyatı hazırladık mı diye soruyor.
+Dialogue: 0,0:07:24.88,0:07:28.12,Default,CHIEF,0,0,0,,Hah! Yarın göndereceğimi söyle!
+Dialogue: 0,0:07:29.21,0:07:31.69,Default,SUZUKI,0,0,0,,Sizi beklettiğimiz için özür dileriz!
+Dialogue: 0,0:07:31.69,0:07:33.08,Default,SUZUKI,0,0,0,,Evet, yarın gönderiyor olacağız!
+Dialogue: 0,0:07:33.08,0:07:35.46,Default,SUZUKI,0,0,0,,Elbette! Kusura bakmayın lütfen!
+Dialogue: 0,0:07:34.49,0:07:36.50,Default,CHIEF,0,0,0,,Akşam yedide toplantımız var!
+Dialogue: 0,0:07:41.90,0:07:44.58,DefaultItalics,SASAKI,0,0,0,,Şu gerzek müdür var ya...
+Dialogue: 0,0:07:44.98,0:07:47.20,DefaultItalics,SASAKI,0,0,0,,Toplantının gece yarısına kadar\Nsürmesi yetmezmiş gibi,
+Dialogue: 0,0:07:47.20,0:07:49.40,DefaultItalics,SASAKI,0,0,0,,bir de hiçbir karara varamadık.
+Dialogue: 0,0:07:49.40,0:07:50.52,DefaultItalics,SASAKI,0,0,0,,Onu öldüre...
+Dialogue: 0,0:07:51.33,0:07:53.56,DefaultItalics,SASAKI,0,0,0,,...mem tabii ki.
+Dialogue: 0,0:07:53.56,0:07:54.52,DefaultItalics,SASAKI,0,0,0,,Böyle anlarda...
+Dialogue: 0,0:07:55.20,0:07:56.61,DefaultItalics,SASAKI,0,0,0,,Tam da zamanı!
+Dialogue: 0,0:07:57.82,0:07:59.70,DefaultItalics,SASAKI,0,0,0,,Bu gece Yamada-san'ı görmeye gidiyorum!
+Dialogue: 0,0:08:01.10,0:08:03.78,Default,OHNO,0,0,0,,Buyurun para üstünüz.
+Dialogue: 0,0:08:03.82,0:08:06.61,Signs,SIGN,0,0,0,,{\fs108\fnArial Black\c&H4C5A50&\fscx10\t(20,186,\fscx100)\t(\fsp9)\pos(408.334,561)}hayattan\Nbezmiş
+Dialogue: 0,0:08:04.29,0:08:06.61,Default,OHNO,0,0,0,,Teşekkürler, yine bekleriz.
+Dialogue: 0,0:08:07.23,0:08:08.37,Default,SASAKI,0,0,0,,Sağ olun.
+Dialogue: 0,0:08:11.57,0:08:15.17,DefaultItalics,SASAKI,0,0,0,,Yamada-san yok galiba.\NYa izinli ya da çoktan paydos etti.
+Dialogue: 0,0:08:15.17,0:08:17.88,DefaultItalics,SASAKI,0,0,0,,Bugün hiçbir şey yolunda gitmiyor.
+Dialogue: 0,0:08:18.94,0:08:22.23,DefaultItalics,SASAKI,0,0,0,,İki fırt çekeyim de kafam açılsın.
+Dialogue: 0,0:08:23.38,0:08:25.38,Default,WOMEN,0,0,0,,İğrenç.
+Dialogue: 0,0:08:25.65,0:08:27.87,Default,WOMEN,0,0,0,,Ne kadar da sevimsiz bir adam.
+Dialogue: 0,0:08:35.89,0:08:39.15,DefaultItalics,SASAKI,0,0,0,,Bir dakika, burada da\Nmı sigara içilecek yer yok?
+Dialogue: 0,0:08:39.15,0:08:40.81,Default,SASAKI,0,0,0,,Dalga mı geçiyorsun?
+Dialogue: 0,0:08:40.81,0:08:43.99,Default,SASAKI,0,0,0,,Biz sigara içenler bu kadar mı dışlandık?
+Dialogue: 0,0:08:43.99,0:08:45.65,Default,TAYAMA,0,0,0,,Hey, bayım.
+Dialogue: 0,0:08:46.30,0:08:48.43,Default,TAYAMA,0,0,0,,Buraya gelin.
+Dialogue: 0,0:08:53.75,0:08:56.66,Default,TAYAMA,0,0,0,,Burada yakabilirsiniz.
+Dialogue: 0,0:08:56.93,0:08:59.67,DefaultItalics,SASAKI,0,0,0,,Vay be! Ne kadar cezbedici!
+Dialogue: 0,0:08:59.67,0:09:03.65,DefaultItalics,SASAKI,0,0,0,,Bir dakika. Burası\Nsüpermarketin arkası mı?
+Dialogue: 0,0:09:06.68,0:09:09.51,Default,SASAKI,0,0,0,,Dışarıdan birini buraya aldığınız\Niçin başınız ağrımaz mı?
+Dialogue: 0,0:09:11.10,0:09:14.81,Default,TAYAMA,0,0,0,,Rahat ol. Kimin girip çıktığını\Nkimse merak etmiyor.
+Dialogue: 0,0:09:15.73,0:09:18.64,Default,SASAKI,0,0,0,,O zaman teklifini kabul ediyorum.
+Dialogue: 0,0:09:18.64,0:09:20.34,Default,TAYAMA,0,0,0,,Tabii, buyur.
+Dialogue: 0,0:09:34.45,0:09:37.02,DefaultItalics,SASAKI,0,0,0,,Ne tür bir tarzı var çözemedim,
+Dialogue: 0,0:09:37.02,0:09:38.96,DefaultItalics,SASAKI,0,0,0,,ama oldukça çarpıcı\nbir görünüşü var.
+Dialogue: 0,0:09:39.65,0:09:42.87,DefaultItalics,SASAKI,0,0,0,,Hiç süpermarket çalışanına benzemiyor.
+Dialogue: 0,0:09:45.83,0:09:51.47,Default,SASAKI,0,0,0,,Şey, hanımefendi?\NHangi reyonda çalışıyorsunuz?
+Dialogue: 0,0:09:54.62,0:09:57.10,Default,TAYAMA,0,0,0,,Hadi, ateşi versene.
+Dialogue: 0,0:09:57.10,0:09:58.98,Default,TAYAMA,0,0,0,,Seni buraya çağırma sebebim buydu zaten.
+Dialogue: 0,0:09:59.54,0:10:01.31,Default,SASAKI,0,0,0,,Baştan söyleseydin ya!
+Dialogue: 0,0:10:01.31,0:10:03.86,Default,TAYAMA,0,0,0,,Kusura bakma, şeytan dürtükledi diyelim.
+Dialogue: 0,0:10:05.01,0:10:07.62,Default,SASAKI,0,0,0,,Tanımadığın birine de yapmazsın bunu.
+Dialogue: 0,0:10:15.17,0:10:19.45,Default,TAYAMA,0,0,0,,Sen hep iki numaralı kasada\Nsıra bekleyen adamsın, değil mi?
+Dialogue: 0,0:10:22.57,0:10:25.21,Default,SASAKI,0,0,0,,Ha, öyle mi? Tesadüf olmalı.
+Dialogue: 0,0:10:26.03,0:10:29.84,Default,TAYAMA,0,0,0,,Tesadüf mü? Diğer kasalar boş olsa\Nbile orada sıra bekliyorsun ama.
+Dialogue: 0,0:10:29.84,0:10:31.59,DefaultItalics,SASAKI,0,0,0,,Rezil olduk!
+Dialogue: 0,0:10:32.37,0:10:34.60,Default,TAYAMA,0,0,0,,Demek Yamada-san'ın hayranısın, ha?
+Dialogue: 0,0:10:35.84,0:10:38.90,DefaultItalics,SASAKI,0,0,0,,Beni bilerek köşeye sıkıştırıyor!
+Dialogue: 0,0:10:39.86,0:10:41.55,Default,TAYAMA,0,0,0,,Anlıyorum.
+Dialogue: 0,0:10:41.55,0:10:43.64,Default,TAYAMA,0,0,0,,Yamada-san sevilmez mi be?
+Dialogue: 0,0:10:44.73,0:10:47.56,Default,TAYAMA,0,0,0,,Hem güzel hem de taş gibi hatun...
+Dialogue: 0,0:10:47.56,0:10:50.34,Default,TAYAMA,0,0,0,,...üstelik sevgilisi varmış gibi de\Ndurmuyor. Resmen büyük ikramiye.
+Dialogue: 0,0:10:50.34,0:10:51.86,Default,SASAKI,0,0,0,,Tamamen yanlış anladın!
+Dialogue: 0,0:10:51.86,0:10:56.62,Default,SASAKI,0,0,0,,Sırf onun kasasına girmek için kırk\Ntakla atan sevimsiz bir adam olabilirim...
+Dialogue: 0,0:10:56.96,0:11:00.75,Default,SASAKI,0,0,0,,Ama sadece, onu çalışırken izlemek\Nmodumu yükselttiği için böyle yapıyorum!
+Dialogue: 0,0:11:01.18,0:11:03.77,Default,SASAKI,0,0,0,,Benim için asıl büyük ikramiye o!
+Dialogue: 0,0:11:07.96,0:11:09.50,Default,SASAKI,0,0,0,,Ö-özür dilerim.
+Dialogue: 0,0:11:09.50,0:11:11.26,Default,SASAKI,0,0,0,,Biraz fazla gaza geldim.
+Dialogue: 0,0:11:13.04,0:11:14.70,Default,TAYAMA,0,0,0,,Şimdi içim rahatladı.
+Dialogue: 0,0:11:15.39,0:11:19.01,Default,TAYAMA,0,0,0,,Yamada-san'a yine bir sapık\Nmusallat olacak diye korkmuştum.
+Dialogue: 0,0:11:19.29,0:11:23.03,Default,TAYAMA,0,0,0,,Buraya onu tavlamaya çalışan kaç\Ntane geri zekalı geliyor anlatamam.
+Dialogue: 0,0:11:24.88,0:11:27.85,Default,TAYAMA,0,0,0,,Ama sen onlardan değilsin, değil mi?
+Dialogue: 0,0:11:30.10,0:11:34.20,Default,TAYAMA,0,0,0,,Çizgini bozma Sasaki-san.
+Dialogue: 0,0:11:37.84,0:11:41.42,DefaultItalics,SASAKI,0,0,0,,Benim gibi yaşlı adamlarla kafa bulan ukala biri olduğunu sanmıştım.
+Dialogue: 0,0:11:41.42,0:11:44.33,DefaultItalics,SASAKI,0,0,0,,Meğer iş arkadaşlarına\Ndeğer veren iyi bir kızmış.
+Dialogue: 0,0:11:44.95,0:11:46.01,Default,YAMADA,0,0,0,,Şey...
+Dialogue: 0,0:11:47.83,0:11:50.14,Default,YAMADA,0,0,0,,Ödemenizi yapabilirsiniz.
+Dialogue: 0,0:11:50.14,0:11:52.34,Default,SASAKI,0,0,0,,Ah, kusura bakmayın.
+Dialogue: 0,0:11:58.83,0:12:00.60,Default,YAMADA,0,0,0,,Şey, Sasaki-san.
+Dialogue: 0,0:12:00.60,0:12:03.60,Default,SASAKI,0,0,0,,Ha? A-adımı nereden biliyorsunuz?
+Dialogue: 0,0:12:03.89,0:12:07.50,Default,YAMADA,0,0,0,,Puan kartınızda yazıyordu.
+Dialogue: 0,0:12:07.50,0:12:08.25,Default,SASAKI,0,0,0,,Anladım...
+Dialogue: 0,0:12:09.35,0:12:10.98,Default,YAMADA,0,0,0,,Çok teşekkür ederim.
+Dialogue: 0,0:12:12.83,0:12:16.69,Default,YAMADA,0,0,0,,Tayama-chan'dan duydum ve bu\Nbeni gerçekten çok mutlu etti.
+Dialogue: 0,0:12:16.69,0:12:17.41,Default,SASAKI,0,0,0,,Efendim?
+Dialogue: 0,0:12:17.41,0:12:20.43,Default,YAMADA,0,0,0,,Benim hayranım olduğunuzu söyledi.
+Dialogue: 0,0:12:21.49,0:12:23.53,Default,YAMADA,0,0,0,,Bunu düşürdünüz.
+Dialogue: 0,0:12:24.11,0:12:25.82,Default,SASAKI,0,0,0,,Kusura bakmayın.
+Dialogue: 0,0:12:27.90,0:12:29.75,Default,YAMADA,0,0,0,,Teşekkürler, yine bekleriz.
+Dialogue: 0,0:12:29.75,0:12:33.03,DefaultItalics,SASAKI,0,0,0,,Lanet olsun sana, Tayama!
+Dialogue: 0,0:12:33.85,0:12:35.80,DefaultItalics,SASAKI,0,0,0,,Adını öğrendiğime göre bittin sen!
+Dialogue: 0,0:12:36.49,0:12:39.01,DefaultItalics,TAYAMA,0,0,0,,Selam, ben Tayama.
+Dialogue: 0,0:12:45.11,0:12:47.02,Default,YAMADA,0,0,0,,Bir ara yine sigara içelim.
+Dialogue: 0,0:12:47.53,0:12:49.44,Default,YAMADA,0,0,0,,Sasaki-san.
+Dialogue: 0,0:12:49.44,0:12:54.03,Default,SASAKI,0,0,0,,Bir dakika, {\i1}Tayama-san{\i0}\Nbenim adımı nereden biliyor?
+Dialogue: 0,0:13:03.91,0:13:06.66,Signs,SIGN,0,0,0,,{\bord6\fs54\fnTimes New Roman\c&H5D86A1&\3c&HBFE8FD&}Genki Ticaret
+Dialogue: 0,0:13:06.98,0:13:10.08,Default,EMPLOYEE F,0,0,0,,Bahse girerim yine gece yarısına\Nkadar süren\nbir toplantımız olacak.
+Dialogue: 0,0:13:10.08,0:13:14.30,Default,SUZUKI,0,0,0,,Keşke birisi çıksa da, ağzına geleni\Nsayıp şu toplantıyı mahvetse.
+Dialogue: 0,0:13:15.21,0:13:17.42,Default,EMPLOYEE F,0,0,0,,Toplantı {\i1}nedir{\i0} ki?\NArtık onu bile hatırlamıyorum.
+Dialogue: 0,0:13:19.21,0:13:22.43,DefaultItalics,SASAKI,0,0,0,,Şu bitmek bilmeyen toplantılar\Nherkesin sinirini bozmaya başladı.
+Dialogue: 0,0:13:24.57,0:13:26.88,DefaultItalics,SASAKI,0,0,0,,Açıkçası benim de.
+Dialogue: 0,0:13:27.50,0:13:30.89,DefaultItalics,SASAKI,0,0,0,,Neyse ki elimde, moralimi\Nyerine getirecek bir şey var:
+Dialogue: 0,0:13:30.89,0:13:34.16,DefaultItalics,SASAKI,0,0,0,,Süper S'teki ikinci kasaya gidersem, Yamada-san'ın gülümsemesini görebilirim!
+Dialogue: 0,0:13:34.16,0:13:36.46,DefaultItalics,YAMADA,0,0,0,,Hoş geldiniz! Teşekkürler!
+Dialogue: 0,0:13:36.46,0:13:40.26,DefaultItalics,TAYAMA,0,0,0,,Sen hep iki numaralı kasada\Nsıra bekleyen adamsın, değil mi?
+Dialogue: 0,0:14:16.54,0:14:18.49,DefaultItalics,SASAKI,0,0,0,,Bu gece burada değil, ha?
+Dialogue: 0,0:14:23.97,0:14:25.66,Default,YAMADA,0,0,0,,Teşekkürler, yine bekleriz!
+Dialogue: 0,0:14:25.66,0:14:28.25,DefaultItalics,SASAKI,0,0,0,,Vay be, tam zamanında!
+Dialogue: 0,0:14:29.18,0:14:33.20,DefaultItalics,YAMADA,0,0,0,,...hayranım olduğunuzu söyledi!
+Dialogue: 0,0:14:35.28,0:14:36.67,Default,YAMADA,0,0,0,,Ürünlerinizi geçeyim.
+Dialogue: 0,0:14:39.33,0:14:40.99,Default,YAMADA,0,0,0,,Hoş geldiniz.
+Dialogue: 0,0:14:40.99,0:14:43.34,Default,SASAKI,0,0,0,,B-buyurun lütfen.
+Dialogue: 0,0:14:43.34,0:14:46.30,Default,YAMADA,0,0,0,,Tabii. Puan kartınız var mıydı?
+Dialogue: 0,0:14:47.57,0:14:48.31,Default,SASAKI,0,0,0,,Buyurun.
+Dialogue: 0,0:14:48.59,0:14:50.31,Default,YAMADA,0,0,0,,Teşekkür ederim.
+Dialogue: 0,0:14:51.50,0:14:53.27,Default,YAMADA,0,0,0,,Kartınızı alabilirsiniz.
+Dialogue: 0,0:14:55.41,0:14:57.41,DefaultItalics,YAMADA,0,0,0,,Tayama-chan'dan duydum...
+Dialogue: 0,0:14:57.41,0:14:59.32,DefaultItalics,YAMADA,0,0,0,,...hayranım olduğunuzu söyledi!
+Dialogue: 0,0:15:02.56,0:15:03.52,Default,YAMADA,0,0,0,,{\fs48}Bayım?
+Dialogue: 0,0:15:03.52,0:15:04.45,Default,YAMADA,0,0,0,,Bayım?
+Dialogue: 0,0:15:04.45,0:15:05.10,Default,SASAKI,0,0,0,,Efendim?
+Dialogue: 0,0:15:05.61,0:15:07.92,Default,YAMADA,0,0,0,,Toplam 883 yen ediyor.
+Dialogue: 0,0:15:07.92,0:15:10.08,Default,SASAKI,0,0,0,,Ah, doğru ya.
+Dialogue: 0,0:15:14.00,0:15:17.56,DefaultItalics,SASAKI,0,0,0,,Kendimi o kadar rezil\Nettikten sonra bile...
+Dialogue: 0,0:15:17.56,0:15:20.37,DefaultItalics,SASAKI,0,0,0,,...hâlâ bana hizmet\Nettiği için çok minnettarım.
+Dialogue: 0,0:15:21.28,0:15:24.72,DefaultItalics,SASAKI,0,0,0,,Bunu bu kadar ciddiye alan tek\Nkişi bendim! Ne kadar da aptalım!
+Dialogue: 0,0:15:25.82,0:15:29.54,DefaultItalics,SASAKI,0,0,0,,Lütfen buradan alışveriş yapmaya\Ndevam etmeme izin ver!
+Dialogue: 0,0:15:30.04,0:15:32.48,DefaultItalics,YAMADA,0,0,0,,Bütün paranızı burada harcayın!
+Dialogue: 0,0:15:42.74,0:15:46.51,Default,SUZUKI,0,0,0,,Gönderdiğim özür e-postasına\Nmüşteri hâlâ cevap vermedi.
+Dialogue: 0,0:15:46.51,0:15:49.74,Default,SUZUKI,0,0,0,,Ailemi bir daha hiç\Ngöremeyeceğim. Öleceğim...
+Dialogue: 0,0:15:50.21,0:15:52.06,Default,SUZUKI,0,0,0,,Hem de bu yaşlı herifin yanında.
+Dialogue: 0,0:15:52.06,0:15:53.89,Default,SASAKI,0,0,0,,Kapa çeneni sen de.
+Dialogue: 0,0:15:53.89,0:15:56.55,Default,SUZUKI,0,0,0,,Dur bir dakika, sen neden\Nmesaiye kalıyorsun ki?
+Dialogue: 0,0:15:57.16,0:16:00.02,Default,SASAKI,0,0,0,,Yeni gelenin tablosunu düzenliyorum.
+Dialogue: 0,0:16:00.02,0:16:02.24,Default,SUZUKI,0,0,0,,Seni kullanıyor olmasın sakın?
+Dialogue: 0,0:16:02.24,0:16:05.76,Default,SASAKI,0,0,0,,Zaten acemi birine bu\Nişi vermemeleri gerekirdi.
+Dialogue: 0,0:16:05.76,0:16:07.46,Default,SUZUKI,0,0,0,,Müdür yaptı değil mi yine?
+Dialogue: 0,0:16:07.46,0:16:11.09,Default,SUZUKI,0,0,0,,İnsanlara her zaman zor iş\Nvermeye bayılır zaten!
+Dialogue: 0,0:16:11.09,0:16:14.38,Default,SUZUKI,0,0,0,,Önce kendi bıraktığı pisliği\Ntemizlesin, {\i1}sonra{\i0} konuşsun derim!
+Dialogue: 0,0:16:16.36,0:16:19.93,Default,SASAKI,0,0,0,,Neyse, şikayet edemeyiz.\NEn zoru, aceminin durumu.
+Dialogue: 0,0:16:19.93,0:16:21.15,Default,SASAKI,0,0,0,,Şu tabloya bir baksana.
+Dialogue: 0,0:16:21.41,0:16:24.35,Default,SASAKI,0,0,0,,Elinden gelenin en iyisini\Nyapmaya çalıştığı belli.
+Dialogue: 0,0:16:24.96,0:16:27.92,DefaultItalics,SASAKI,0,0,0,,Neyse ki, benim moral kaynağım yanımda!
+Dialogue: 0,0:16:27.92,0:16:29.69,DefaultItalics,YAMADA,0,0,0,,Hoş geldiniz!
+Dialogue: 0,0:16:29.69,0:16:31.86,DefaultItalics,SASAKI,0,0,0,,Bu kadarı beni yıldırmaya yetmez!
+Dialogue: 0,0:16:31.86,0:16:35.38,DefaultItalics,TAYAMA,0,0,0,,Hey, bizim büyük hayran gelmiş.
+Dialogue: 0,0:16:39.92,0:16:43.92,Default,SASAKI,0,0,0,,Hay aksi! Yaptığım tüm düzeltmeleri sildim!
+Dialogue: 0,0:16:45.09,0:16:47.68,Default,SUZUKI,0,0,0,,Bütün gece parti var desene!
+Dialogue: 0,0:16:49.68,0:16:51.91,Default,OHNO,0,0,0,,Çok teşekkür ederiz.
+Dialogue: 0,0:16:51.91,0:16:53.23,Default,SASAKI,0,0,0,,Sağ olun, sağ olun.
+Dialogue: 0,0:16:53.93,0:16:55.86,DefaultItalics,SASAKI,0,0,0,,Yine yoktu...
+Dialogue: 0,0:16:55.86,0:17:00.62,DefaultItalics,SASAKI,0,0,0,,Evren, moral kaynağı olarak bir başkasına bel bağladığım için beni cezalandırıyor sanki.
+Dialogue: 0,0:17:01.69,0:17:04.62,DefaultItalics,SASAKI,0,0,0,,Belki de kendime bir hobi edinmeliyim.
+Dialogue: 0,0:17:04.62,0:17:06.16,Default,TAYAMA,0,0,0,,Sasaki-san.
+Dialogue: 0,0:17:07.33,0:17:09.20,Default,TAYAMA,0,0,0,,N'aber?
+Dialogue: 0,0:17:10.95,0:17:15.30,Default,TAYAMA,0,0,0,,Sigara içme alanında şu an tek\Nbaşımayım. Katılmak ister misin?
+Dialogue: 0,0:17:20.12,0:17:24.47,Default,SASAKI,0,0,0,,Tayama-san! Ben de\Nseninle konuşmak istiyordum.
+Dialogue: 0,0:17:25.09,0:17:29.34,Default,SASAKI,0,0,0,,Nasıl olur da Yamada-san'ın yüzüne\Nkarşı hayranı olduğumu söylersin?
+Dialogue: 0,0:17:29.34,0:17:32.47,Default,SASAKI,0,0,0,,O günden beri her kasaya\Ngittiğimde utançtan deliriyorum!
+Dialogue: 0,0:17:32.47,0:17:34.72,Default,TAYAMA,0,0,0,,Evet, ama hâlâ sıra\Nbeklemeye devam ediyorsun.
+Dialogue: 0,0:17:36.17,0:17:37.60,DefaultItalics,SASAKI,0,0,0,,Bu kız nereden izliyor beni?
+Dialogue: 0,0:17:43.81,0:17:46.61,Default,TAYAMA,0,0,0,,Sana bu kötülüğü yaptığım\Niçin üzgünüm, Sasaki-san.
+Dialogue: 0,0:17:49.23,0:17:52.16,Default,TAYAMA,0,0,0,,Ama Yamada-san'ı\Ngerçekten çok mutlu etti.
+Dialogue: 0,0:17:52.16,0:17:54.62,Default,TAYAMA,0,0,0,,Bunu kendi söyledi, hatırlasana?
+Dialogue: 0,0:17:54.62,0:17:59.10,Default,SASAKI,0,0,0,,Bu lafları yiyecek kadar genç\Ndeğilim artık, anlıyor musun?
+Dialogue: 0,0:17:59.10,0:18:02.62,Default,TAYAMA,0,0,0,,Öyle mi? Yani tüm\Nsöyleyeceğin bu muydu?
+Dialogue: 0,0:18:03.14,0:18:04.63,Default,SASAKI,0,0,0,,Ah, bir de...
+Dialogue: 0,0:18:05.18,0:18:07.38,Default,SASAKI,0,0,0,,Senin için, istersen.
+Dialogue: 0,0:18:07.38,0:18:11.89,Signs,SIGN,0,0,0,,{\fs60\bord6\fnComic Sans MS\c&H323547&\3c&HECF2F5&\pos(949.5,241.5)}Nefis Mochi Cipsleri
+Dialogue: 0,0:18:07.64,0:18:11.89,Default,SASAKI,0,0,0,,Geçen gece burada sigara içmeme\Nizin verdiğin için bir teşekkür hediyesi.
+Dialogue: 0,0:18:11.89,0:18:13.27,Default,TAYAMA,0,0,0,,Hey, bunları biliyorum.
+Dialogue: 0,0:18:13.27,0:18:17.89,Default,SASAKI,0,0,0,,Nefis Mochi Cipsini biliyor\Nmusun? Bayılırım bunlara.
+Dialogue: 0,0:18:17.89,0:18:21.90,Default,TAYAMA,0,0,0,,Yaşlılar arasında bayağı popülerdir.
+Dialogue: 0,0:18:22.41,0:18:24.58,DefaultItalics,SASAKI,0,0,0,,Demek artık yaşlılar sınıfına giriyorum.
+Dialogue: 0,0:18:25.26,0:18:29.70,Default,TAYAMA,0,0,0,,Zaten denemek istiyordum,\Nsağ ol Sasaki-san.
+Dialogue: 0,0:18:29.70,0:18:32.41,Default,TAYAMA,0,0,0,,Öyle dikilip durma, gel\Nde bir sigara yak.
+Dialogue: 0,0:18:32.70,0:18:36.64,DefaultItalics,SASAKI,0,0,0,,Hadi ya? O yaşlı damak\Ntadım mı işe yaradı yani?
+Dialogue: 0,0:18:36.64,0:18:39.66,DefaultItalics,SASAKI,0,0,0,,Tayama-san her zamanki gibi şaşırtmadı.
+Dialogue: 0,0:18:40.13,0:18:43.52,Default,TAYAMA,0,0,0,,Vardiyam yeni bitti,\Nkarnım da zil çalıyor.
+Dialogue: 0,0:18:43.52,0:18:45.70,Default,SASAKI,0,0,0,,Yarısından fazlasını yeme ama.
+Dialogue: 0,0:18:45.70,0:18:48.34,Default,SASAKI,0,0,0,,Tıka basa yiyip uyumak istemezsin.
+Dialogue: 0,0:18:52.12,0:18:57.24,Default,SASAKI,0,0,0,,Sigaramı ofiste unutmuşum.\NYanımda hiç yok.
+Dialogue: 0,0:18:58.40,0:19:00.31,Default,TAYAMA,0,0,0,,Benimkini al o zaman.
+Dialogue: 0,0:19:00.72,0:19:02.81,Default,SASAKI,0,0,0,,Olmaz öyle, bedavadan otlanamam.
+Dialogue: 0,0:19:03.92,0:19:04.96,Default,TAYAMA,0,0,0,,İç.
+Dialogue: 0,0:19:07.64,0:19:09.07,Default,SASAKI,0,0,0,,Tayama-san...
+Dialogue: 0,0:19:10.91,0:19:14.03,Default,SASAKI,0,0,0,,Eğer cipsi yemek istiyorsan,\Ndirekt söylemen yeterli.
+Dialogue: 0,0:19:14.03,0:19:17.39,Default,TAYAMA,0,0,0,,Vay, gerçekten çok dikkatlisin.
+Dialogue: 0,0:19:18.72,0:19:22.18,Default,SASAKI,0,0,0,,Bu yaşlı adamla uğraşmaktan\Nzevk mi alıyorsun sen?
+Dialogue: 0,0:19:22.18,0:19:23.58,Default,TAYAMA,0,0,0,,Hem de çok.
+Dialogue: 0,0:19:23.58,0:19:25.21,Default,SASAKI,0,0,0,,Tahmin etmiştim zaten!
+Dialogue: 0,0:19:25.53,0:19:30.00,Default,TAYAMA,0,0,0,,Elimde değil ki. Sen de\Nbenim moral kaynağımsın.
+Dialogue: 0,0:19:30.00,0:19:32.28,Default,SASAKI,0,0,0,,N-ne demek bu şimdi?
+Dialogue: 0,0:19:32.28,0:19:35.64,Default,TAYAMA,0,0,0,,Senin Yamada-san'ın kasasında\Nsıra beklemenle aynı hesap işte.
+Dialogue: 0,0:19:36.56,0:19:38.99,Default,SASAKI,0,0,0,,Yine eğleniyorsun benimle.
+Dialogue: 0,0:19:38.99,0:19:43.39,Default,SASAKI,0,0,0,,Ben Yamada-san'a, senin bana yaptığın\Ngibi asla kafa tutmadım, haberin olsun.
+Dialogue: 0,0:19:43.70,0:19:46.04,Default,TAYAMA,0,0,0,,Anlamıyor musun?
+Dialogue: 0,0:19:46.04,0:19:48.89,Default,TAYAMA,0,0,0,,Hepimizın moralini yerine\Ngetiren farklı şeyler var işte.
+Dialogue: 0,0:19:48.89,0:19:50.79,Default,TAYAMA,0,0,0,,O yüzden surat asmayı bırak,
+Dialogue: 0,0:19:51.22,0:19:53.51,Default,TAYAMA,0,0,0,,ve yine gel, Sasaki-san.
+Dialogue: 0,0:19:56.76,0:19:59.42,Default,SASAKI,0,0,0,,Surat falan astığım yok benim!
+Dialogue: 0,0:19:59.95,0:20:02.45,Signs,SIGN,0,0,0,,{\bord6\fs54\fnTimes New Roman\c&H6F746F&\3c&HE7EDE9&}Genki Ticaret
+Dialogue: 0,0:20:04.25,0:20:06.21,Default,SUZUKI,0,0,0,,Günaydın.
+Dialogue: 0,0:20:06.21,0:20:07.96,Signs,SIGN,0,0,0,,{\fs66\fnComic Sans MS\c&H393834&\frz-7.85\fax0.12\pos(118.167,236.667)}Hediyelikler
+Dialogue: 0,0:20:06.21,0:20:07.96,Signs,SIGN,0,0,0,,{\fs66\fnComic Sans MS\c&H393834&\fax0.12\frz353.8\pos(130.5,423.87)}Buraya.
+Dialogue: 0,0:20:07.96,0:20:12.21,Signs,SIGN,0,0,0,,{\an9\bord6\fnComic Sans MS\c&H29293C&\3c&HEDF1F3&}Nefis Mochi Cipsleri
+Dialogue: 0,0:20:12.51,0:20:14.96,Default,SASAKI,0,0,0,,Müşteriyle aranı düzeltebildin mi?
+Dialogue: 0,0:20:14.96,0:20:20.37,Default,SUZUKI,0,0,0,,Sorma, mükemmel özür dileme yeteneklerim sayesinde hallettim.
+Dialogue: 0,0:20:23.00,0:20:25.10,Default,SUZUKI,0,0,0,,Bu mochi cipslerini sen mi getirdin?
+Dialogue: 0,0:20:25.10,0:20:26.85,Default,SASAKI,0,0,0,,Nereden anladın?
+Dialogue: 0,0:20:26.85,0:20:30.46,Default,SUZUKI,0,0,0,,Saçmalama. Beni bunlarla kaç kere\Nbeslediğinden haberin var mı senin?
+Dialogue: 0,0:20:31.61,0:20:34.84,Default,SUZUKI,0,0,0,,Bir başlayınca duramıyor insan.
+Dialogue: 0,0:20:34.84,0:20:37.78,Default,SASAKI,0,0,0,,İçkinin yanına da iyi gidiyor.\NAl, paketi eve götür.
+Dialogue: 0,0:20:37.78,0:20:40.38,Default,SUZUKI,0,0,0,,Valla hayır demem, götürürüm!
+Dialogue: 0,0:20:41.14,0:20:43.88,Default,SUZUKI,0,0,0,,Ama sende nasıl bu kadar çok var ya?
+Dialogue: 0,0:20:44.62,0:20:47.37,Default,SUZUKI,0,0,0,,Toptan falan mı aldın?
+Dialogue: 0,0:20:47.37,0:20:49.70,Default,SASAKI,0,0,0,,Süpermarkete her gittiğimde alıyorum da...
+Dialogue: 0,0:20:50.14,0:20:53.00,Default,SASAKI,0,0,0,,Evde olduğunu unutmuşum,\Nelimde fazladan birikti.
+Dialogue: 0,0:20:53.37,0:20:56.16,Default,SUZUKI,0,0,0,,Ne? O zaman almayı bırak sen de!
+Dialogue: 0,0:20:56.16,0:20:59.45,Default,SASAKI,0,0,0,,Ama o zaman, süpermarkete gittiğimde alacak bir şeyim kalmaz.
+Dialogue: 0,0:20:59.45,0:21:02.26,Default,SUZUKI,0,0,0,,Madem öyle, gitme o lanet\Nolası süpermarkete!
+Dialogue: 0,0:21:02.27,0:21:04.77,Signs,SIGN,0,0,0,,{\fs45\bord6\c&HE6E0DB&\3c&H4C3599&\frz9.82\fax-0.15\pos(429,427.5)}7/24 Açık
+Dialogue: 0,0:21:02.27,0:21:04.77,Signs,SIGN,0,0,0,,{\fs60\fnArial Black\bord6\c&H2D0DAD&\3c&HF1E9E8&\fax-0.1\frz7.36\4c&H85634B&\shad6\pos(912,495)}Süpermarket S
+Dialogue: 0,0:21:10.15,0:21:11.40,Signs,SIGN,0,0,0,,{\bord6\fs60\fnComic Sans MS\c&H282A3E&\3c&HEBF0F5&}Nefis Mochi Cipsleri
+Dialogue: 0,0:21:12.15,0:21:14.54,DefaultItalics,SUZUKI,0,0,0,,O zaman almayı bırak sen de!
+Dialogue: 0,0:21:21.12,0:21:22.42,Default,YAMADA,0,0,0,,Hoş geldiniz.
+Dialogue: 0,0:21:25.94,0:21:29.10,Default,YAMADA,0,0,0,,Sürekli aldığınız bu cipsler\Ngerçekten çok güzel, değil mi?
+Dialogue: 0,0:21:29.10,0:21:32.79,Default,SASAKI,0,0,0,,Efendim? Siz de mi\Nseviyorsunuz, Yamada-san?
+Dialogue: 0,0:21:32.79,0:21:36.66,Default,YAMADA,0,0,0,,Evet, seviyorum.\NGerçi daha yeni keşfettim.
+Dialogue: 0,0:21:36.66,0:21:40.05,Default,YAMADA,0,0,0,,Biri ikram etmişti, çok beğendim.
+Dialogue: 0,0:21:40.05,0:21:41.93,Default,YAMADA,0,0,0,,O günden beri sürekli yiyorum.
+Dialogue: 0,0:21:41.93,0:21:44.39,DefaultItalics,SASAKI,0,0,0,,Biri mi ikram etmiş... hem de yeni?
+Dialogue: 0,0:21:44.39,0:21:46.43,DefaultItalics,TAYAMA,0,0,0,,Mochi cipsi nefis.
+Dialogue: 0,0:21:46.89,0:21:49.98,DefaultItalics,SASAKI,0,0,0,,Bir dakika, yoksa?
+Dialogue: 0,0:21:50.45,0:21:52.94,DefaultItalics,SASAKI,0,0,0,,Yamada-san ile Tayama-san...
+Dialogue: 0,0:21:55.33,0:21:58.13,DefaultItalics,SASAKI,0,0,0,,...gerçekten çok mu yakınlar?
+Dialogue: 0,0:21:58.24,0:22:03.07,Signs,SIGN,0,0,0,,{\fad(684,1)\fs36\bord6\fnComic Sans MS\c&H505764&\3c&HE9F1F6&\pos(648,798)}Nefis Mochi Cipsleri
+Dialogue: 0,0:21:58.99,0:22:00.12,DefaultItalics,TAYAMA,0,0,0,,Hadi yiyelim.
+Dialogue: 0,0:22:00.12,0:22:02.10,DefaultItalics,YAMADA,0,0,0,,Vay, teşekkürler!
+Dialogue: 0,0:22:03.58,0:22:05.94,Default,OHNO,0,0,0,,Yamada-chan, alerjin mi var?
+Dialogue: 0,0:22:06.45,0:22:12.30,Default,TAYAMA,0,0,0,,Yok canım. Sadece bir yerlerde, aklı\Nbiraz kıt bir ihtiyar beni düşünüyor galiba.
+Dialogue: 0,0:23:44.97,0:23:49.97,Signs_EpTitle,NEXTEPTITLE,0,0,0,,{\blur3\pos(696,777)}2. Dal\N{\fs72}Seninle Süpermarketin\NArkasında Sigara İçmek
