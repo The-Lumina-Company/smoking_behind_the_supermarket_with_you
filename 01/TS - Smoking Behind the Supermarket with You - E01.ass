@@ -1,0 +1,44 @@
+[Script Info]
+Title: The-Lumina-Company - Smoking Behind the Supermarket with You
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Signs,Arial,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,90,90,30,0
+Style: Signs_EpTitle,Times New Roman,48,&H00057AF9,&H000000FF,&HC8000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,90,90,30,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:57.97,0:03:02.98,Signs_EpTitle,EPTITLE,0,0,0,,{\blur3\pos(696,750)}1. Dal\N{\fs72}Seninle Süpermarketin\NArkasında Sigara İçmek
+Dialogue: 0,0:03:02.98,0:03:06.48,Signs,SIGN,0,0,0,,{\fs60\an9\bord6\fnTimes New Roman\c&H8B8C89&\3c&HFAF7F3&}Genki Ticaret
+Dialogue: 0,0:03:18.45,0:03:24.12,Signs,SIGN,0,0,0,,{\fad(146,1)\fs36\bord6\fnComic Sans MS\c&H84847D&\3c&HEFF0E8&\pos(822.5,513)}Hediyelikler
+Dialogue: 0,0:03:18.45,0:03:24.12,Signs,SIGN,0,0,0,,{\fad(146,1)\fs36\bord6\fnComic Sans MS\c&H84847D&\3c&HEFF0E8&\pos(843,613.5)}Buraya.
+Dialogue: 0,0:03:39.68,0:03:41.89,Signs,SIGN,0,0,0,,{\fad(1272,1)\fs48\bord6\c&HD4DFDA&\3c&H20241D&\pos(1813.5,49.5)}Şehir İçi
+Dialogue: 0,0:04:33.19,0:04:34.86,Signs,SIGN,0,0,0,,{\fad(1,605)\bord6\c&HE6E0DB&\3c&H543B8A&\frz5.31\fax-0.1\pos(237,313.5)}7/24 Açık
+Dialogue: 0,0:04:33.19,0:04:34.86,Signs,SIGN,0,0,0,,{\fad(1,605)\fnArial Black\bord6\c&H6042A1&\3c&HF1E9E8&\fax-0.1\pos(946.5,465)\frz4.356\4c&H85634B&\shad6}Süpermarket S
+Dialogue: 0,0:04:53.59,0:04:55.46,Signs,SIGN,0,0,0,,{\bord7.5\c&HF4F4F3&\3c&HAB635B&}Ücretsiz Buz\N{\c&HD9B99A&\3c&HF3F3F3&\fs36}Saklama Amaçlı
+Dialogue: 0,0:04:57.21,0:05:00.46,Signs,SIGN,0,0,0,,{\bord7.5\c&HF4F4F3&\3c&HAB635B&}Ücretsiz Buz\N{\c&HD9B99A&\3c&HF3F3F3&\fs36}Saklama Amaçlı
+Dialogue: 0,0:05:00.47,0:05:14.11,Signs,SIGN,0,0,0,,{\fs54\bord4.5\fnVerdana\b0\3c&HF0BB50&}Alkol Reyonu
+Dialogue: 0,0:05:19.49,0:05:23.90,Signs,SIGN,0,0,0,,{\fad(1,220)\bord6\fnComic Sans MS\c&H282C41&\3c&HF0F3F6&}Nefis Mochi Cipsleri
+Dialogue: 0,0:06:20.42,0:06:22.68,Signs,SIGN,0,0,0,,{\t(25,2235,\fscx109.48\fscy109.48)\blur0.9\fs27\c&H434343&\frz-5.26\fax0.05\move(883.5,453,877.26,449.01,25,2235)}Kasiyer: Yamada
+Dialogue: 0,0:06:45.65,0:06:49.37,Signs,SIGN,0,0,0,,{\fad(362,188)\fs36\bord6\fnComic Sans MS\c&H282C41&\3c&HF0F3F6&\pos(480,588)}Nefis Mochi Cipsleri
+Dialogue: 0,0:06:58.84,0:07:02.34,Signs,SIGN,0,0,0,,{\fs60\an9\bord6\fnTimes New Roman\c&H7C7B78&\3c&HFAF7F3&}Genki Ticaret
+Dialogue: 0,0:08:03.82,0:08:06.61,Signs,SIGN,0,0,0,,{\fs108\fnArial Black\c&H4C5A50&\fscx10\t(20,186,\fscx100)\t(\fsp9)\pos(408.334,561)}hayattan\Nbezmiş
+Dialogue: 0,0:13:03.91,0:13:06.66,Signs,SIGN,0,0,0,,{\bord6\fs54\fnTimes New Roman\c&H5D86A1&\3c&HBFE8FD&}Genki Ticaret
+Dialogue: 0,0:18:07.38,0:18:11.89,Signs,SIGN,0,0,0,,{\fs60\bord6\fnComic Sans MS\c&H323547&\3c&HECF2F5&\pos(949.5,241.5)}Nefis Mochi Cipsleri
+Dialogue: 0,0:19:59.95,0:20:02.45,Signs,SIGN,0,0,0,,{\bord6\fs54\fnTimes New Roman\c&H6F746F&\3c&HE7EDE9&}Genki Ticaret
+Dialogue: 0,0:20:06.21,0:20:07.96,Signs,SIGN,0,0,0,,{\fs66\fnComic Sans MS\c&H393834&\frz-7.85\fax0.12\pos(118.167,236.667)}Hediyelikler
+Dialogue: 0,0:20:06.21,0:20:07.96,Signs,SIGN,0,0,0,,{\fs66\fnComic Sans MS\c&H393834&\fax0.12\frz353.8\pos(130.5,423.87)}Buraya.
+Dialogue: 0,0:20:07.96,0:20:12.21,Signs,SIGN,0,0,0,,{\an9\bord6\fnComic Sans MS\c&H29293C&\3c&HEDF1F3&}Nefis Mochi Cipsleri
+Dialogue: 0,0:21:02.27,0:21:04.77,Signs,SIGN,0,0,0,,{\fs45\bord6\c&HE6E0DB&\3c&H4C3599&\frz9.82\fax-0.15\pos(429,427.5)}7/24 Açık
+Dialogue: 0,0:21:02.27,0:21:04.77,Signs,SIGN,0,0,0,,{\fs60\fnArial Black\bord6\c&H2D0DAD&\3c&HF1E9E8&\fax-0.1\frz7.36\4c&H85634B&\shad6\pos(912,495)}Süpermarket S
+Dialogue: 0,0:21:10.15,0:21:11.40,Signs,SIGN,0,0,0,,{\bord6\fs60\fnComic Sans MS\c&H282A3E&\3c&HEBF0F5&}Nefis Mochi Cipsleri
+Dialogue: 0,0:21:58.24,0:22:03.07,Signs,SIGN,0,0,0,,{\fad(684,1)\fs36\bord6\fnComic Sans MS\c&H505764&\3c&HE9F1F6&\pos(648,798)}Nefis Mochi Cipsleri
+Dialogue: 0,0:23:44.97,0:23:49.97,Signs_EpTitle,NEXTEPTITLE,0,0,0,,{\blur3\pos(696,777)}2. Dal\N{\fs72}Seninle Süpermarketin\NArkasında Sigara İçmek
