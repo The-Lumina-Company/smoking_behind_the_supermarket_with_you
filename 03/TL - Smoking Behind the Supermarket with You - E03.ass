@@ -1,0 +1,313 @@
+[Script Info]
+Title: The-Lumina-Company - Smoking Behind the Supermarket with You
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,30,30,60,1
+Style: Üst yazı,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,8,30,30,35,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:39.02,0:01:41.43,Default,,0,0,0,,{\an8\pos(957.333,41.333)}FEBREZE, %99 KOKU GİDERİCİ\NLEZZETLİ PİRİNÇ KRAKERLERİ
+Dialogue: 0,0:01:41.52,0:01:43.35,Default,,0,0,0,,{\i1}Koku giderici sprey mi?{\i0}
+Dialogue: 0,0:01:43.44,0:01:45.69,Default,,0,0,0,,Hey, Yamada-san...
+Dialogue: 0,0:01:46.69,0:01:47.94,Default,,0,0,0,,Acaba ben...
+Dialogue: 0,0:01:48.02,0:01:52.36,Default,,0,0,0,,Şey... Yani... Nasıl desem...
+Dialogue: 0,0:01:53.86,0:01:56.41,Default,,0,0,0,,Kusura bakmayın, boş verin.
+Dialogue: 0,0:01:58.95,0:02:02.46,Default,,0,0,0,,Poşetle birlikte toplam 1563 yen ediyor.
+Dialogue: 0,0:02:03.54,0:02:04.58,Default,,0,0,0,,Buyurun.
+Dialogue: 0,0:02:05.13,0:02:08.46,Default,,0,0,0,,{\i1}İnsanlar görev başındayken\Nböyle bir şey sorulmaz ki zaten...{\i0}
+Dialogue: 0,0:02:11.84,0:02:13.97,Default,,0,0,0,,Buyurun, para üstünüz.
+Dialogue: 0,0:02:15.30,0:02:16.47,Default,,0,0,0,,Yine bekleriz.
+Dialogue: 0,0:02:17.43,0:02:18.47,Default,,0,0,0,,Sağ olun.
+Dialogue: 0,0:02:24.85,0:02:26.31,Default,,0,0,0,,{\i1}Çileli iş hayatı.{\i0}
+Dialogue: 0,0:02:27.23,0:02:28.69,Default,,0,0,0,,{\i1}Çekilmez patronlar.{\i0}
+Dialogue: 0,0:02:29.82,0:02:31.69,Default,,0,0,0,,{\i1}Koku giderici ürünler.{\i0}
+Dialogue: 0,0:02:32.28,0:02:33.99,Default,,0,0,0,,{\i1}Soracağı o şey...{\i0}
+Dialogue: 0,0:02:39.53,0:02:40.99,Default,,0,0,0,,{\i1}Yoksa...{\i0}
+Dialogue: 0,0:02:42.70,0:02:44.00,Default,,0,0,0,,‎Sasaki-san.
+Dialogue: 0,0:02:44.08,0:02:46.25,Default,,0,0,0,,Biri sana sigara\Nkokuyorsun diye laf mı etti?
+Dialogue: 0,0:02:49.25,0:02:52.21,Default,,0,0,0,,Tayama-san, sen büyücü falan mısın?
+Dialogue: 0,0:02:54.09,0:02:57.18,Default,,0,0,0,,Sana göre etrafındaki herkes büyücü zaten.
+Dialogue: 0,0:02:58.64,0:03:01.89,Default,,0,0,0,,Reyonda koku giderici sprey\Naradığını görmüştüm.
+Dialogue: 0,0:03:01.97,0:03:04.23,Default,,0,0,0,,Ne? Beni mi gözetliyordun?
+Dialogue: 0,0:03:04.31,0:03:06.52,Default,,0,0,0,,Ee, yalan sayılmaz sonuçta...
+Dialogue: 0,0:03:08.10,0:03:10.77,Default,,0,0,0,,Evet, tam üstüne bastın.
+Dialogue: 0,0:03:10.86,0:03:15.65,Default,,0,0,0,,Patron tam bir sigara düşmanı.\N"Şu kokuyu hallet," diye bağırdı bana.
+Dialogue: 0,0:03:15.74,0:03:17.32,Default,,0,0,0,,{\i1}Ben neyim böyle ya?{\i0}
+Dialogue: 0,0:03:18.49,0:03:21.16,Default,,0,0,0,,Neyse, sigara içenlerin kaderi bu.
+Dialogue: 0,0:03:27.79,0:03:31.59,Default,,0,0,0,,Sigaradan sonra dişlerini fırçala.\NKokuyu büyük ölçüde alır.
+Dialogue: 0,0:03:33.13,0:03:36.09,Default,,0,0,0,,Geriye bir tek kıyafetlerine\Nsprey sıkmak kalıyor.
+Dialogue: 0,0:03:36.59,0:03:38.09,Default,,0,0,0,,Ama ona rağmen...
+Dialogue: 0,0:03:40.14,0:03:43.35,Default,,0,0,0,,Bazıları yine de laf edebilir,\Ntıpkı bana yaptıkları gibi...
+Dialogue: 0,0:03:44.52,0:03:46.77,Default,,0,0,0,,Tayama-san, sen harikasın!
+Dialogue: 0,0:03:46.85,0:03:49.19,Default,,0,0,0,,Tüm bunları bilmen gerçekten çok havalı!
+Dialogue: 0,0:03:49.77,0:03:51.19,Default,,0,0,0,,Yok canım.
+Dialogue: 0,0:03:51.27,0:03:53.15,Default,,0,0,0,,Eskilerden öğrendiğim birkaç numara işte.
+Dialogue: 0,0:03:56.15,0:03:59.61,Default,,0,0,0,,Şimdi de sen bana öğretiyorsun.
+Dialogue: 0,0:04:06.91,0:04:08.83,Default,,0,0,0,,Sasaki-san, pati ver.
+Dialogue: 0,0:04:08.92,0:04:11.08,Default,,0,0,0,,Ha? Olur, vereyim.
+Dialogue: 0,0:04:11.67,0:04:13.42,Default,,0,0,0,,Bir dakika, ne? "Pati" mi?
+Dialogue: 0,0:04:13.96,0:04:15.13,Default,,0,0,0,,‎Tayama-san?
+Dialogue: 0,0:04:16.67,0:04:17.84,Default,,0,0,0,,Bu, benden sana.
+Dialogue: 0,0:04:18.42,0:04:21.09,Default,,0,0,0,,‎Kendi kullandığım koku giderici sprey.
+Dialogue: 0,0:04:22.08,0:04:24.72,Default,,0,0,0,,Pahalı bir şeye benziyor. Emin misin?
+Dialogue: 0,0:04:24.81,0:04:27.73,Default,,0,0,0,,Kullanılmış zaten, evde\Ndaha var. Al işte.
+Dialogue: 0,0:04:28.43,0:04:29.89,Default,,0,0,0,,Teşekkür ederim.
+Dialogue: 0,0:04:30.52,0:04:32.86,Default,,0,0,0,,Kendimi çok klas hissedeceğim.
+Dialogue: 0,0:04:33.44,0:04:36.23,Default,,0,0,0,,Kokusu gayet hafiftir, çalışma arkadaşlarını
+Dialogue: 0,0:04:36.32,0:04:38.03,Default,,0,0,0,,rahatsız etmeden düzenli kullanabilirsin.
+Dialogue: 0,0:04:38.57,0:04:41.41,Default,,0,0,0,,Ciddi misin, parfümlü mü yani?
+Dialogue: 0,0:04:42.57,0:04:44.08,Default,,0,0,0,,Nasıl kokuyor acaba?
+Dialogue: 0,0:04:44.74,0:04:46.12,Default,,0,0,0,,Bakmak ister misin?
+Dialogue: 0,0:04:48.12,0:04:51.00,Default,,0,0,0,,Buralara sıkmıştım işte, kokla bakalım.
+Dialogue: 0,0:04:53.58,0:04:55.25,Default,,0,0,0,,Seni koklayacak halim yok ya!
+Dialogue: 0,0:04:56.67,0:04:59.51,Default,,0,0,0,,Oltaya gelip hemen\Nkoklamaya yeltenirsin sanmıştım.
+Dialogue: 0,0:05:00.76,0:05:05.01,Default,,0,0,0,,Tayama, sen beni\Nköpek falan mı sanıyorsun?
+Dialogue: 0,0:05:11.10,0:05:13.02,Default,,0,0,0,,Belki bir Labrador retriever?
+Dialogue: 0,0:05:13.10,0:05:16.27,Default,,0,0,0,,Ha? Labra-ne?
+Dialogue: 0,0:05:16.36,0:05:19.57,Default,,0,0,0,,-Bir köpek cinsi.\N-Harbiden köpek sanıyormuşsun beni!
+Dialogue: 0,0:05:26.12,0:05:29.04,Default,,0,0,0,,ŞİRKET İLKESİ\N"DURMAKSIZIN ÇALIŞ..."
+Dialogue: 0,0:05:43.05,0:05:45.39,Default,,0,0,0,,{\i1}Şimdi, şundan biraz üzerime sıkayım...{\i0}
+Dialogue: 0,0:05:47.89,0:05:51.93,Default,,0,0,0,,{\i1}Yalnız, bundan ne kadar sıkmam gerekiyor ki?{\i0}
+Dialogue: 0,0:05:52.56,0:05:55.52,Default,,0,0,0,,{\i1}Normalde şu koku gidericilerden\Nşöyle bir fıs sıkıp geçerdim.{\i0}
+Dialogue: 0,0:05:57.02,0:05:58.65,Default,,0,0,0,,Dış görünüşünü amma da\Nkafaya takıyorsun ha.
+Dialogue: 0,0:05:58.73,0:05:59.57,Default,,0,0,0,,‎Suzuki!
+Dialogue: 0,0:06:01.65,0:06:06.66,Default,,0,0,0,,Müdürün tüttürme ekibine kokuyorsun demesi\Nbir nevi günaydın deme şekli zaten.
+Dialogue: 0,0:06:06.74,0:06:08.87,Default,,0,0,0,,Her şeyi amma da ciddiye alıyorsun.
+Dialogue: 0,0:06:08.95,0:06:11.87,Default,,0,0,0,,Öyle ama!
+Dialogue: 0,0:06:11.95,0:06:16.21,Default,,0,0,0,,Sigaradan sonra dişleri fırçalayıp\Nüstüne bir de şu spreyden sıkınca...
+Dialogue: 0,0:06:16.29,0:06:20.38,Default,,0,0,0,,Kokudan eser meser kalmıyormuş.\NYani bana öyle dediler.
+Dialogue: 0,0:06:20.46,0:06:22.63,Default,,0,0,0,,Öyle mi dediler? Kim dedi?
+Dialogue: 0,0:06:24.18,0:06:25.47,Default,,0,0,0,,Ha, şey...
+Dialogue: 0,0:06:26.47,0:06:27.80,Default,,0,0,0,,{\an8\pos(960,51.429)}‎TAYAMA - KASİYER\NBERABER SİGARA İÇİYORUZ
+Dialogue: 0,0:06:26.88,0:06:28.89,Default,,0,0,0,,Hadi ama, tanıştırsana beni.
+Dialogue: 0,0:06:31.85,0:06:36.23,Default,,0,0,0,,Çok acımasızsın!\NNe diye durup dururken--
+Dialogue: 0,0:06:36.31,0:06:38.94,Default,,0,0,0,,Vay anasını, harbiden güzel kokuyormuş!
+Dialogue: 0,0:06:39.02,0:06:43.53,Default,,0,0,0,,Bu kokuyla yenge sana\Nbir kez daha abayı yakacaktır kesin.
+Dialogue: 0,0:06:45.20,0:06:46.86,Default,,0,0,0,,Bak hele laflara...
+Dialogue: 0,0:06:46.95,0:06:50.03,Default,,0,0,0,,Keiko-chan zaten bana deliler gibi aşık.
+Dialogue: 0,0:06:50.66,0:06:54.66,Default,,0,0,0,,Ama, hey, çıtayı yükseltmenin\Nzararı olmaz. Haksız mıyım?
+Dialogue: 0,0:06:57.63,0:06:59.54,Default,,0,0,0,,Anlatsana biraz.
+Dialogue: 0,0:06:59.63,0:07:03.71,Default,,0,0,0,,Dediğim gibi işte. Dişleri fırçalayıp\Nüstüne spreyi sıkıyorsun.
+Dialogue: 0,0:07:03.80,0:07:05.80,Default,,0,0,0,,Şöyle ufaktan bir fıs, bak böyle...
+Dialogue: 0,0:07:08.76,0:07:09.76,Default,,0,0,0,,SÜPER S\N7/24 AÇIK
+Dialogue: 0,0:07:09.85,0:07:11.31,Default,,0,0,0,,Hoş geldiniz!
+Dialogue: 0,0:07:11.97,0:07:13.93,Default,,0,0,0,,Buyurun, para üstünüz.
+Dialogue: 0,0:07:14.02,0:07:15.81,Default,,0,0,0,,Teşekkür ederim.
+Dialogue: 0,0:07:18.02,0:07:20.73,Default,,0,0,0,,Sasaki-san, bugün bir farklısınız sanki.
+Dialogue: 0,0:07:21.61,0:07:24.15,Default,,0,0,0,,Kokunuz biraz Tayama'ya benziyor.
+Dialogue: 0,0:07:26.70,0:07:28.07,Default,,0,0,0,,Şey, ben...
+Dialogue: 0,0:07:29.49,0:07:30.83,Default,,0,0,0,,Çok utandım şu an!
+Dialogue: 0,0:07:32.74,0:07:34.91,Default,,0,0,0,,Geçen gün bana bir sprey vermişti de.
+Dialogue: 0,0:07:35.00,0:07:37.46,Default,,0,0,0,,Ama ne kadar sıkmam\Ngerektiğini hiç sormamışım.
+Dialogue: 0,0:07:38.92,0:07:41.04,Default,,0,0,0,,Sanırım dozunu biraz kaçırdım.
+Dialogue: 0,0:07:46.76,0:07:50.34,Default,,0,0,0,,Kusura bakmayın! Çok teşekkürler!
+Dialogue: 0,0:07:53.81,0:07:57.14,Default,,0,0,0,,Yamada, senin mesai bitti, çıkabilirsin.
+Dialogue: 0,0:07:58.14,0:08:01.48,Default,,0,0,0,,-İyi misin? Bir sorun mu var?\N-Ah...
+Dialogue: 0,0:08:02.44,0:08:05.74,Default,,0,0,0,,Birine takılayım demiştim ama...
+Dialogue: 0,0:08:06.61,0:08:09.91,Default,,0,0,0,,Ava giderken avlandım resmen.
+Dialogue: 0,0:09:00.25,0:09:01.54,Default,,0,0,0,,Güzel olmuş ama, değil mi?
+Dialogue: 0,0:09:02.75,0:09:05.80,Default,,0,0,0,,LAVABO\NASANSÖR
+Dialogue: 0,0:09:22.27,0:09:24.81,Default,,0,0,0,,{\i1}Çok yaşa Tayama-Usta.{\i0}
+Dialogue: 0,0:09:25.90,0:09:27.69,Default,,0,0,0,,GÖRGÜ KURALLARI USTASI
+Dialogue: 0,0:09:28.69,0:09:32.24,Default,,0,0,0,,{\i1}Umarım teşekkür hediyemi beğenir.{\i0}
+Dialogue: 0,0:09:37.54,0:09:39.45,Default,,0,0,0,,Tayama-san, iyi akş...
+Dialogue: 0,0:09:46.13,0:09:47.96,Default,,0,0,0,,{\i1}Başka bir çalışan mı?{\i0}
+Dialogue: 0,0:10:10.82,0:10:12.32,Default,,0,0,0,,Siz kimsiniz?
+Dialogue: 0,0:10:14.07,0:10:16.49,Default,,0,0,0,,Benim adım Sasaki.
+Dialogue: 0,0:10:16.57,0:10:19.12,Default,,0,0,0,,Bak sen. Sasaki demek?
+Dialogue: 0,0:10:20.04,0:10:22.62,Default,,0,0,0,,Pek tekin bir tip gibi durmuyorsun.\NPolisi arıyorum ben.
+Dialogue: 0,0:10:25.04,0:10:28.63,Default,,0,0,0,,Hayır, lütfen! Durun!\NBen Tayama'nın tanıdığıyım!
+Dialogue: 0,0:10:28.71,0:10:31.21,Default,,0,0,0,,Sigara içecek bir yer ararken\Nburalarda dolanıyordum,
+Dialogue: 0,0:10:31.30,0:10:33.30,Default,,0,0,0,,sağ olsun Tayama-san beni buraya davet etti.
+Dialogue: 0,0:10:33.38,0:10:37.51,Default,,0,0,0,,O günden beri de onun sayesinde\Nburaya gelip takılıyorum işte.
+Dialogue: 0,0:10:40.60,0:10:42.68,Default,,0,0,0,,{\i1}"Tayama" da kim be?{\i0}
+Dialogue: 0,0:10:43.48,0:10:46.10,Default,,0,0,0,,{\i1}Hem dur, ben bu adamı tanıyorum...{\i0}
+Dialogue: 0,0:10:46.19,0:10:50.69,Default,,0,0,0,,{\i1}Yamada'nın kasasında sürekli sıraya\Ngirip salak salak sırıtan tip bu.{\i0}
+Dialogue: 0,0:10:51.48,0:10:52.49,Default,,0,0,0,,KÖPEĞİM BETH
+Dialogue: 0,0:10:52.57,0:10:55.32,Default,,0,0,0,,{\i1}Aklımda kalmış, çünkü bizim memleketteki\Naile köpeğimizin aynısı resmen.{\i0}
+Dialogue: 0,0:10:55.40,0:10:56.41,Default,,0,0,0,,{\i1}İyi de "Tayama" kim be?{\i0}
+Dialogue: 0,0:10:56.99,0:10:58.74,Default,,0,0,0,,Yamada'yı kastediyorsun herhalde?
+Dialogue: 0,0:10:58.82,0:11:01.91,Default,,0,0,0,,Lafı niye Yamada'ya getirdiniz ki?
+Dialogue: 0,0:11:02.95,0:11:04.83,Default,,0,0,0,,Tayama-san diyorum.
+Dialogue: 0,0:11:04.91,0:11:08.17,Default,,0,0,0,,Genç, yaşına göre olgun bir hanım kız.\NÜstünde de şirin mi şirin bir ceket var.
+Dialogue: 0,0:11:08.25,0:11:11.67,Default,,0,0,0,,Yamada ile arkadaş olduklarını söylemişti.
+Dialogue: 0,0:11:12.30,0:11:15.97,Default,,0,0,0,,{\i1}Vay uyanık. Bizimki adamı\Nparmağında oynatıyor resmen.{\i0}
+Dialogue: 0,0:11:22.52,0:11:25.85,Default,,0,0,0,,Demek bu akşam da, Yama... Yama...
+Dialogue: 0,0:11:25.94,0:11:28.06,Default,,0,0,0,,Yani Tayama ile tüttürmek\Niçin mi buradasın?
+Dialogue: 0,0:11:28.15,0:11:31.90,Default,,0,0,0,,Yok, hayır. Sadece ona\Nbir şey vermek için gelmiştim.
+Dialogue: 0,0:11:31.98,0:11:33.07,Default,,0,0,0,,Bir şey mi?
+Dialogue: 0,0:11:35.19,0:11:37.45,Default,,0,0,0,,Kızın sponsoru falan mı oldun yoksa?
+Dialogue: 0,0:11:37.53,0:11:39.20,Default,,0,0,0,,Teşekkür hediyesi o!
+Dialogue: 0,0:11:39.28,0:11:40.57,Default,,0,0,0,,{\i1}Teşekkür hediyesi mi?{\i0}
+Dialogue: 0,0:11:44.45,0:11:47.33,Default,,0,0,0,,Tayama birazdan çıkar herhalde.
+Dialogue: 0,0:11:47.42,0:11:48.96,Default,,0,0,0,,Çağırmamı ister misin?
+Dialogue: 0,0:11:49.04,0:11:51.29,Default,,0,0,0,,Yok, hiç gerek yok, zahmet etmeyin.
+Dialogue: 0,0:11:51.38,0:11:54.71,Default,,0,0,0,,Buralardaysa veririm diye\Ndüşünmüştüm sadece.
+Dialogue: 0,0:11:55.67,0:12:00.47,Default,,0,0,0,,Zahmet olmazsa, benim yerime\Nona siz iletebilir misiniz acaba?
+Dialogue: 0,0:12:00.55,0:12:03.14,Default,,0,0,0,,Ne için olduğunu o anlar.
+Dialogue: 0,0:12:08.06,0:12:10.65,Default,,0,0,0,,Mola vaktinizde rahatsız ettim, kusura bakmayın.
+Dialogue: 0,0:12:13.90,0:12:16.65,Default,,0,0,0,,{\i1}Harbiden de bizim aile köpeğinin aynısı.{\i0}
+Dialogue: 0,0:12:17.19,0:12:18.32,Default,,0,0,0,,{\i1}Beth!{\i0}
+Dialogue: 0,0:12:20.28,0:12:21.87,Default,,0,0,0,,Kaptan.
+Dialogue: 0,0:12:30.88,0:12:33.25,Default,,0,0,0,,Bu gizli sigara molasına\Nben neden davet edilmedim bakayım?
+Dialogue: 0,0:12:40.22,0:12:43.14,Default,,0,0,0,,Yamada. Seninle görülecek bir hesabımız var.
+Dialogue: 0,0:12:43.22,0:12:45.06,Default,,0,0,0,,Ha? Ne yaptım ki ben?
+Dialogue: 0,0:12:45.64,0:12:48.10,Default,,0,0,0,,Burada müşterilerle gizli gizli\Nsigara tüttürüyorsun, değil mi?
+Dialogue: 0,0:12:52.44,0:12:53.52,Default,,0,0,0,,Sigara içmiyordum ki.
+Dialogue: 0,0:12:53.61,0:12:55.15,Default,,0,0,0,,Yalancı seni, Yamada!
+Dialogue: 0,0:12:55.23,0:12:56.69,Default,,0,0,0,,Hiç inkâr etmeye kalkışma.
+Dialogue: 0,0:12:56.78,0:12:58.94,Default,,0,0,0,,Sasaki diye birinden\Nduydum bile çoktan.
+Dialogue: 0,0:12:59.65,0:13:01.53,Default,,0,0,0,,Buralarda mıydı?
+Dialogue: 0,0:13:01.61,0:13:03.57,Default,,0,0,0,,Az önce çıktı.
+Dialogue: 0,0:13:03.66,0:13:06.99,Default,,0,0,0,,İnanılmaz. Neredeyse adamı\Nşüpheli şahıs diye ihbar edecektim.
+Dialogue: 0,0:13:08.50,0:13:10.75,Default,,0,0,0,,Bunu "Tayama" adında birine vermemi söyledi.
+Dialogue: 0,0:13:15.00,0:13:17.46,Default,,0,0,0,,Teşekkür hediyesiymiş güya.
+Dialogue: 0,0:13:17.55,0:13:19.80,Default,,0,0,0,,Bahsettiği "Tayama" sensin, değil mi?
+Dialogue: 0,0:13:23.68,0:13:26.10,Default,,0,0,0,,Tembelliğin de bu kadarı.
+Dialogue: 0,0:13:26.18,0:13:28.14,Default,,0,0,0,,"Tayama" ile "Yamada" ha?
+Dialogue: 0,0:13:28.22,0:13:30.73,Default,,0,0,0,,Şu numarayı yiyecek tek saftirik de o zaten, bahse varım.
+Dialogue: 0,0:13:31.44,0:13:34.69,Default,,0,0,0,,Adamcağız ne kadar iyi niyetli biri, onunla bu kadar oynamamalısın.
+Dialogue: 0,0:13:34.77,0:13:37.69,Default,,0,0,0,,‎Hey, beni dinliyor musun--
+Dialogue: 0,0:13:38.86,0:13:40.99,Default,,0,0,0,,Ona önemli bir şey olmadığını söyledim.
+Dialogue: 0,0:13:45.24,0:13:47.99,Default,,0,0,0,,{\i1}Ha, demek olay bu.{\i0}
+Dialogue: 0,0:13:48.08,0:13:52.71,Default,,0,0,0,,GOTO’NUN MAĞAZA MÜDÜRÜ ÖLÇERİ\NROMANTİZM HİSSİ VE MORAL KARŞILAŞTIRMASI
+Dialogue: 0,0:13:53.67,0:13:56.75,Default,,0,0,0,,{\i1}Sıkıcı bir gece vardiyasında tam da aradığın türden bir eğlence...{\i0}
+Dialogue: 0,0:13:57.38,0:13:58.96,Default,,0,0,0,,{\i1}Bir süre kendi hallerine bırakayım.{\i0}
+Dialogue: 0,0:14:14.85,0:14:18.27,Default,,0,0,0,,{\i1}Öyle bir aceleyle çıktım ki...{\i0}
+Dialogue: 0,0:14:18.86,0:14:21.86,Default,,0,0,0,,{\i1}Umarım Tayama'nın başı belaya girmemiştir.{\i0}
+Dialogue: 0,0:14:23.53,0:14:25.11,Default,,0,0,0,,{\i1}Öyle her bulduğun başıboşu toplayıp getirme!{\i0}
+Dialogue: 0,0:14:25.20,0:14:27.53,Default,,0,0,0,,{\i1}Onu getirdiğim için özür dilerim.{\i0}
+Dialogue: 0,0:14:29.03,0:14:30.41,Default,,0,0,0,,{\i1}Hediyene el koyuyorum!{\i0}
+Dialogue: 0,0:14:30.49,0:14:32.29,Default,,0,0,0,,{\i1}Çok acımasızsın...{\i0}
+Dialogue: 0,0:14:33.75,0:14:35.08,Default,,0,0,0,,{\i1}Daha sigara yok!{\i0}
+Dialogue: 0,0:14:35.17,0:14:37.25,Default,,0,0,0,,{\i1}Hiç mi vicdanın yok?{\i0}
+Dialogue: 0,0:14:43.09,0:14:45.22,Default,,0,0,0,,HER GÜN BANA KARPUZ DİLİMLEMENE BAYILIRDIM.
+Dialogue: 0,0:14:53.18,0:14:57.27,Default,,0,0,0,,{\i1}Karpuz olayının yine karşımıza çıkacağı kimin aklına gelirdi ki?{\i0}
+Dialogue: 0,0:14:57.35,0:14:59.48,Default,,0,0,0,,{\i1}Sonraki cilt için sabırsızlanıyorum.{\i0}
+Dialogue: 0,0:15:00.07,0:15:02.69,Default,,0,0,0,,{\i1}Bundan sonra hangisini okusam?{\i0}
+Dialogue: 0,0:15:02.78,0:15:04.49,Default,,0,0,0,,KÜTÜPHANE\N‎KARPUZ BOSTANINDAKİ BEKÇİ
+Dialogue: 0,0:15:10.83,0:15:12.49,Default,,0,0,0,,Ha, sen miydin Yamada.
+Dialogue: 0,0:15:12.58,0:15:14.25,Default,,0,0,0,,Selam.
+Dialogue: 0,0:15:14.33,0:15:17.21,Default,,0,0,0,,Bugün sadece gece vardiyan olduğunu sanıyordum.
+Dialogue: 0,0:15:17.29,0:15:20.38,Default,,0,0,0,,Şef Maezawa programı oturtmakta bayağı zorlanıyordu,
+Dialogue: 0,0:15:20.46,0:15:21.96,Default,,0,0,0,,bu yüzden her türlü buradayım yani.
+Dialogue: 0,0:15:23.38,0:15:25.76,Default,,0,0,0,,Mesaini eksiksiz yazıyorsun, değil mi?
+Dialogue: 0,0:15:25.84,0:15:28.01,Default,,0,0,0,,Hıhı. Hepsini hallettim bitti bile.
+Dialogue: 0,0:15:29.43,0:15:30.76,Default,,0,0,0,,Aferin kızıma.
+Dialogue: 0,0:15:30.85,0:15:32.43,Default,,0,0,0,,Baksana, Goto.
+Dialogue: 0,0:15:32.51,0:15:35.77,Default,,0,0,0,,Kağıt sigarayı gerçekten bıraktın, değil mi?
+Dialogue: 0,0:15:40.65,0:15:41.65,Default,,0,0,0,,Evet.
+Dialogue: 0,0:15:42.36,0:15:46.03,Default,,0,0,0,,Bu şekilde toplum içine çıkmak çok daha uygun sanki.
+Dialogue: 0,0:15:46.11,0:15:49.03,Default,,0,0,0,,Üstelik sürekli sprey sıkıp diş fırçalamaktan gına geldi.
+Dialogue: 0,0:15:51.16,0:15:53.66,Default,,0,0,0,,Bütün bunları bana öğreten kişi söylüyor bunu da.
+Dialogue: 0,0:15:57.46,0:16:00.46,Default,,0,0,0,,Ee? Lafı dolandırmanın hiç lüzumu yok ama.
+Dialogue: 0,0:16:01.09,0:16:03.63,Default,,0,0,0,,Bir diyeceğin varsa doğrudan dökül ortaya.
+Dialogue: 0,0:16:03.71,0:16:04.71,Default,,0,0,0,,YAMA-LÖP
+Dialogue: 0,0:16:05.59,0:16:10.18,Default,,0,0,0,,Şey... Arkada sigara içmeye devam etmemde bir sakınca var mıydı?
+Dialogue: 0,0:16:10.26,0:16:12.64,Default,,0,0,0,,Ne? Hımm.
+Dialogue: 0,0:16:13.22,0:16:14.81,Default,,0,0,0,,Şu ihtiyar amcayla mı yani?
+Dialogue: 0,0:16:15.39,0:16:19.81,Default,,0,0,0,,Onu kendi yöntemlerinle “ortadan kaldırmak” için şikayet etmedin, değil mi?
+Dialogue: 0,0:16:19.90,0:16:21.81,Default,,0,0,0,,Adamı arka bahçeye bir yere\Ngömmüş olamazsın, değil mi?
+Dialogue: 0,0:16:21.90,0:16:24.82,Default,,0,0,0,,Kurşun deliğini nerede istersin, ha?
+Dialogue: 0,0:16:24.90,0:16:28.07,Default,,0,0,0,,Akciğerlerim hariç bir yer!
+Dialogue: 0,0:16:28.15,0:16:30.11,Default,,0,0,0,,Bunu neden yapayım?
+Dialogue: 0,0:16:30.20,0:16:32.37,Default,,0,0,0,,Bir kulağından girip diğerinden çıkmış olabilir ama
+Dialogue: 0,0:16:32.45,0:16:35.41,Default,,0,0,0,,ben sadece onunla "bu kadar" uğraşma dedim.
+Dialogue: 0,0:16:35.49,0:16:38.33,Default,,0,0,0,,"Bu kadar" derken, dozunda\Nyap demek istedim yani.
+Dialogue: 0,0:16:38.41,0:16:42.79,Default,,0,0,0,,İşi aksatmayıp kendi vaktinden\Nçaldığın için görmezden geliyorum işte.
+Dialogue: 0,0:16:42.88,0:16:46.05,Default,,0,0,0,,Ama o "doz" dediğim sınırı aşarsan,\Nfena müdahale ederim söyleyeyim.
+Dialogue: 0,0:16:46.92,0:16:48.51,Default,,0,0,0,,Bunun dışında, bir sıkıntı yok yani.
+Dialogue: 0,0:16:49.13,0:16:50.34,Default,,0,0,0,,Mevzu bu kadar işte.
+Dialogue: 0,0:16:51.93,0:16:53.80,Default,,0,0,0,,Yırttık desene.
+Dialogue: 0,0:16:54.68,0:16:55.72,Default,,0,0,0,,Baksana buraya, Yamada!
+Dialogue: 0,0:16:58.48,0:17:01.10,Default,,0,0,0,,En ufak bir şey olursa bana \Naber vereceksin, anladın mı?
+Dialogue: 0,0:17:02.31,0:17:06.36,Default,,0,0,0,,Tamam da... N'olabilir ki?
+Dialogue: 0,0:17:06.94,0:17:08.61,Default,,0,0,0,,Belli değil mi zaten?
+Dialogue: 0,0:17:08.69,0:17:12.61,Default,,0,0,0,,Sevinçten havalara uçmaya\Nbaşlarsan haber verirsin bana!
+Dialogue: 0,0:17:14.95,0:17:17.70,Default,,0,0,0,,Tamam. Görüşürüz.
+Dialogue: 0,0:17:24.42,0:17:28.13,Default,,0,0,0,,{\i1}Ona gerçekten adamakıllı\Nbir özür borçluyum sanırım.{\i0}
+Dialogue: 0,0:17:29.17,0:17:31.34,Default,,0,0,0,,Alt tarafı bir teşekkür etmek\Ngelmişti içimden oysa...
+Dialogue: 0,0:17:31.43,0:17:34.14,Default,,0,0,0,,Kim oluyorum da başını\Nbelaya sokuyorum ki ben de?
+Dialogue: 0,0:17:34.22,0:17:35.39,Default,,0,0,0,,Hopp.
+Dialogue: 0,0:17:36.51,0:17:37.64,Default,,0,0,0,,Özür dilerim!
+Dialogue: 0,0:17:39.27,0:17:40.35,Default,,0,0,0,,‎Tayama?
+Dialogue: 0,0:17:40.43,0:17:43.15,Default,,0,0,0,,Ne diye sinsi sinsi dolanıyorsun öyle etrafta?
+Dialogue: 0,0:17:44.19,0:17:47.69,Default,,0,0,0,,Geçen gün burada başka bir çalışanla\Nkarşılaştım da...
+Dialogue: 0,0:17:48.23,0:17:50.61,Default,,0,0,0,,Umarım başını yakmamışımdır...
+Dialogue: 0,0:17:50.69,0:17:52.65,Default,,0,0,0,,Haaa. Bizim mağaza müdürü.
+Dialogue: 0,0:17:53.86,0:17:54.91,Default,,0,0,0,,Mağaza müdürü mü?
+Dialogue: 0,0:17:55.78,0:17:57.91,Default,,0,0,0,,Büyütülecek bir şey yoktu ya...
+Dialogue: 0,0:17:57.99,0:18:00.12,Default,,0,0,0,,Geç bunları da, şöyle gelsene bi.
+Dialogue: 0,0:18:00.66,0:18:01.91,Default,,0,0,0,,‎Lan, dur--
+Dialogue: 0,0:18:02.00,0:18:05.67,Default,,0,0,0,,Müdür burada tüttürmemize\Nses etmedi yani, değil mi?
+Dialogue: 0,0:18:05.75,0:18:08.67,Default,,0,0,0,,Dozunu kaçırmazsak sorun çıkmaz dedi yani galiba...
+Dialogue: 0,0:18:08.75,0:18:10.38,Default,,0,0,0,,"Dozunda..."
+Dialogue: 0,0:18:11.05,0:18:13.68,Default,,0,0,0,,{\i1}Bu tam olarak izin sayılmaz ki ama...{\i0}
+Dialogue: 0,0:18:31.94,0:18:33.70,Default,,0,0,0,,Ha, bu arada Sasaki?
+Dialogue: 0,0:18:35.86,0:18:36.70,Default,,0,0,0,,Şu.
+Dialogue: 0,0:18:37.28,0:18:38.45,Default,,0,0,0,,Tatlı.
+Dialogue: 0,0:18:40.29,0:18:44.79,Default,,0,0,0,,Para istemediğini söylemiştin ama\Nyine de teşekkür etmek istedim sana...
+Dialogue: 0,0:18:44.87,0:18:46.92,Default,,0,0,0,,Beğenmene çok sevindim.
+Dialogue: 0,0:18:47.00,0:18:48.21,Default,,0,0,0,,Evet.
+Dialogue: 0,0:18:51.51,0:18:55.22,Default,,0,0,0,,Şuna bakmak bile güldürüyor beni.
+Dialogue: 0,0:18:55.30,0:18:57.22,Default,,0,0,0,,Oha, cidden mi?
+Dialogue: 0,0:18:57.30,0:19:01.10,Default,,0,0,0,,Bana ne alsam diye düşünüp\Nkafa yormanı hayal edebiliyorum da...
+Dialogue: 0,0:19:03.10,0:19:06.27,Default,,0,0,0,,Neden güldürüyor ki seni?
+Dialogue: 0,0:19:06.35,0:19:09.86,Default,,0,0,0,,Bunu bulurken bayağı bir\Nzorlanmış olmalısın, değil mi ya?
+Dialogue: 0,0:19:09.94,0:19:12.99,Default,,0,0,0,,Bugünlerde dükkanlarda böyle\Ntatlı bir şey bulmak hiç de kolay olmuyor ya.
+Dialogue: 0,0:19:20.74,0:19:24.45,Default,,0,0,0,,{\i1}Yani görevlilere gidip bunların\Nnerede durduğunu sormanı hayal ettikçe...{\i0}
+Dialogue: 0,0:19:25.33,0:19:28.25,Default,,0,0,0,,{\i1}ve her zaman kadınlarla dolu olan\No ıvır zıvır reyonuna dalmanı düşündükçe...{\i0}
+Dialogue: 0,0:19:28.33,0:19:33.96,Default,,0,0,0,,{\i1}mahcup olsan da sırf bana bir şey\Nbulabilmek için dayanmanı düşündükçe...{\i0}
+Dialogue: 0,0:19:38.18,0:19:40.93,Default,,0,0,0,,Tayama, sen harbiden medyum falan mısın yoksa ya?
+Dialogue: 0,0:19:48.15,0:19:53.03,Default,,0,0,0,,Ne bileyim, tüm bunları gözümün önüne\Ngetirmek bile yüzümü güldürmeye yetiyor.
+Dialogue: 0,0:19:54.36,0:19:57.65,Default,,0,0,0,,Bence sen sadece yaşlı bir adamla dalga geçmeye çalışıyorsun.
+Dialogue: 0,0:19:57.74,0:20:01.53,Default,,0,0,0,,Ne? Öyle bir şey demedim.\NSenleyken daha iyi hissediyorum.
+Dialogue: 0,0:20:02.45,0:20:05.16,Default,,0,0,0,,{\i1}Ciddi mi söylüyor yoksa\nşaka mı yapıyor, hiç kestiremiyorum.{\i0}
+Dialogue: 0,0:20:14.50,0:20:15.55,Default,,0,0,0,,Teşekkür ederim.
+Dialogue: 0,0:20:16.67,0:20:18.30,Default,,0,0,0,,Bunu canım pahasına koruyacağım.
+Dialogue: 0,0:20:21.51,0:20:24.31,Default,,0,0,0,,{\i1}İki türlü de sorun değil benim için.{\i0}
+Dialogue: 0,0:20:24.39,0:20:25.93,Default,,0,0,0,,Bi baksana, Sasaki.
+Dialogue: 0,0:20:27.02,0:20:29.35,Default,,0,0,0,,Sigaranın külünü döksen mi artık?
+Dialogue: 0,0:20:31.06,0:20:32.06,Default,,0,0,0,,Doğru.
+Dialogue: 0,0:20:32.86,0:20:34.57,Default,,0,0,0,,Bunu kullanabilirsin.
+Dialogue: 0,0:20:35.53,0:20:37.95,Default,,0,0,0,,Şak diye hemen kullanmaya başlamak da\nbir başka güzel oluyor.
+Dialogue: 0,0:20:38.03,0:20:39.11,Default,,0,0,0,,Teşekkürler--
+Dialogue: 0,0:20:41.91,0:20:43.08,Default,,0,0,0,,Biraz yakın değil mi?
+Dialogue: 0,0:20:43.70,0:20:46.08,Default,,0,0,0,,Dikkatlice dökmelisin yoksa elin yanar.
+Dialogue: 0,0:20:46.83,0:20:47.83,Default,,0,0,0,,Hadi bakalım.
+Dialogue: 0,0:20:48.75,0:20:49.83,Default,,0,0,0,,Dök.
+Dialogue: 0,0:20:50.92,0:20:52.13,Default,,0,0,0,,Hayır...
+Dialogue: 0,0:20:52.21,0:20:55.05,Default,,0,0,0,,Sadece versen de olurdu.
+Dialogue: 0,0:20:55.13,0:20:57.34,Default,,0,0,0,,O zaman al.
+Dialogue: 0,0:20:59.42,0:21:01.09,Default,,0,0,0,,Ne...
+Dialogue: 0,0:21:01.18,0:21:02.47,Default,,0,0,0,,Azıcık daha.
+Dialogue: 0,0:21:03.01,0:21:04.01,Default,,0,0,0,,Azıcık.
+Dialogue: 0,0:21:08.68,0:21:10.35,Default,,0,0,0,,‎Tayama.
+Dialogue: 0,0:21:10.44,0:21:12.94,Default,,0,0,0,,Neden elini kaçırıyorsun?
+Dialogue: 0,0:21:13.44,0:21:15.11,Default,,0,0,0,,Hafiften öyle olabilir.
+Dialogue: 0,0:21:16.07,0:21:18.49,Default,,0,0,0,,Kolların da amma uzunmuş\nsenin ha?
+Dialogue: 0,0:21:18.57,0:21:21.20,Default,,0,0,0,,Hadi, Tayama.
+Dialogue: 0,0:21:21.28,0:21:23.62,Default,,0,0,0,,Kolum...
+Dialogue: 0,0:21:36.63,0:21:37.63,Default,,0,0,0,,{\i1}Ağrı bandı mı?{\i0}
+Dialogue: 0,0:21:38.59,0:21:39.88,Default,,0,0,0,,{\i1}Sakın bana...{\i0}
+Dialogue: 0,0:21:43.18,0:21:44.26,Default,,0,0,0,,İyi misin?
+Dialogue: 0,0:21:44.34,0:21:45.51,Default,,0,0,0,,İyiyim.
+Dialogue: 0,0:21:45.60,0:21:48.77,Default,,0,0,0,,Kusura bakma, bir an nefesim tıkanır gibi oldu.
+Dialogue: 0,0:21:48.85,0:21:52.35,Default,,0,0,0,,Cidden özür dilerim. Mazur gör.
+Dialogue: 0,0:21:52.44,0:21:55.90,Default,,0,0,0,,Yamada, o kadar abartılı özür dilemene gerek yok.
+Dialogue: 0,0:21:56.48,0:22:00.40,Default,,0,0,0,,{\i1}Yaşlı adamların bir kas incinmesinden\Ntoparlanması gerçekten uzun sürüyormuş.{\i0}
+Dialogue: 0,0:22:01.45,0:22:04.07,Default,,0,0,0,,‎Sasaki, lütfen affet...
+Dialogue: 0,0:22:04.66,0:22:07.91,Default,,0,0,0,,Sorun yok, Yamada, her şey yolunda!
+Dialogue: 0,0:22:07.99,0:22:10.25,Default,,0,0,0,,‎-Lütfen affet beni.\N‎-Sus artık!
+Dialogue: 0,0:22:10.33,0:22:14.04,Default,,0,0,0,,‎-Özür dilemeyi bırak lütfen.\N‎-Çok özür dilerim.
+Dialogue: 0,0:22:14.12,0:22:15.92,Default,,0,0,0,,Sorun yok diyorum ya!
